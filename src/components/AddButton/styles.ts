@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
 export const RoundedButton = styled(Link)`
- height: 4rem;
+  height: 4rem;
   width: 12rem;
   background-color: #006400;
   color: white;
@@ -24,4 +24,4 @@ export const RoundedButton = styled(Link)`
     font-size: 1.2rem;
     padding: 0 1rem;
   }
-`;
+`
